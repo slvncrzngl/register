@@ -1,9 +1,10 @@
 {
   "owner": {
-    "username": "HiengLyhor",
-    "email": "hieng.lyhoir6764@gmail.com"
+    "username": "slvncrzngl"
   },
   "records": {
-    "TXT": "969d83a7d0e3443dd57f1127513e36"
-  }
+    "CNAME": "cname.vercel-dns.com",
+    "TXT": "vc-domain-verify=chie.is-a.dev,e1717eaa4a9d2dd41505"
+  },
+  "proxied": true
 }
